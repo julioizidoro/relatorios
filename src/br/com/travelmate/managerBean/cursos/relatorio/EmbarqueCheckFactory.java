@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.travelmate.managerBean.cursos;
+package br.com.travelmate.managerBean.cursos.relatorio;
 
 import java.util.List;
 
